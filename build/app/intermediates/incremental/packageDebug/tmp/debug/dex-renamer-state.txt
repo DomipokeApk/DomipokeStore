@@ -1,0 +1,4 @@
+#Fri Mar 10 15:00:25 CET 2023
+base.0=C\:\\Users\\Domipoke\\Desktop\\Domipoke-store\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
